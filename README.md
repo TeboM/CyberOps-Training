@@ -19,6 +19,13 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 - 📚 Improve in Security Research, Investigation Methodology, Malware Analysis, Threat Hunting, Web Exploitation, Learn new skills...
 - 🚀 Build consistency, clarity, and confidence
 
+## 📌 What You'll Find Here
+
+- Learning notes and concept breakdowns  
+- Lab reflections and key takeaways  
+- Daily Progress tracking  
+- Weekly retrospectives
+
 ---
 
 ## 🗓️ Daily Progress Tracker
@@ -29,10 +36,10 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ### Legend 
-✅ Done
-⏳ In Progress
-🔁 Incomplete
-⛔ N/A (No training done)
+- ✅ Done
+- ⏳ In Progress
+- 🔁 Incomplete
+- ⛔ N/A (No training done)
 
 ---
 
