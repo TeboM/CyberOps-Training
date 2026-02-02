@@ -1,8 +1,8 @@
-# 🥷 CyberOps-Training 
-This repo will document and share my journey as I rebuild and solidify my knowledge and experience of cybersecurity principles, concepts and techniques through hands-on training  across various platforms
+# 🥷 CyberOps-Training 2026
+This is a live repo where I will document and share my journey as I rebuild and solidify my understanding and experience of cybersecurity principles, tools, concepts and techniques through hands-on training across various platforms.
 
 
-# 🛡️ Cyber Training Roadmap 2026
+# 🛡️ Cyber Training Roadmap 
 
 Welcome to my cybersecurity upskilling journey.
 
