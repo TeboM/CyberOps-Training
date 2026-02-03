@@ -32,7 +32,8 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 | Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status          |
 |-----|------------|-----------------|--------------------------------|------------|--------------------------------------|-----------------|
-| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND and other MITRE project | ⏳In-Progress  |
+| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND and other MITRE project | ✅ Done     |
+| 2   | 03 Feb     | TryHackMe       | MITRE                          | 30 mins    | Using the D3FEND to prevent, remediate and recover from attacks | ✅ Done | 
 | ... | ...        | ...             | ...                            | ...        | ...                                  | ...             |
 
 ### Legend 
@@ -47,6 +48,11 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ### Day 1 
 > Continued with Cyber Defence Frameworks focusing on MITRE's D3FEND framework, where it is used and how to apply it in real-world situations.
+
+### Day 2
+> Further understanding of the D3FEND framework, applying preventative, mitigation and recovery measures against attacks
+  > Performing Credential Rotation - D3-CRO (to prevent attackers from reusing stolen credentials)
+  >  
 
 ...
 
