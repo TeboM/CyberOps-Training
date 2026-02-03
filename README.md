@@ -51,8 +51,8 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ### Day 2
 > Further understanding of the D3FEND framework, applying preventative, mitigation and recovery measures against attacks
-- Performing Credential Rotation - D3-CRO (to prevent attackers from reusing stolen credentials)
-  
+> Performing Credential Rotation - D3-CRO (to prevent attackers from reusing stolen credentials)
+> Reviewing User Geolocation Logon Analysis to determine logon activity that deviates from a user's normal profile.
 
 ...
 
