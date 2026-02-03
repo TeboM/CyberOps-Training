@@ -32,8 +32,8 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 | Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status          |
 |-----|------------|-----------------|--------------------------------|------------|--------------------------------------|-----------------|
-| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND and other MITRE project | ✅ Done     |
-| 2   | 03 Feb     | TryHackMe       | MITRE                          | 30 mins    | Using the D3FEND to prevent, remediate and recover from attacks | ✅ Done | 
+| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND basics                  | ✅ Done     |
+| 2   | 03 Feb     | TryHackMe       | MITRE                          | 30 mins    | Using the D3FEND against attacks. Other MITRE projects | ✅ Done | 
 | ... | ...        | ...             | ...                            | ...        | ...                                  | ...             |
 
 ### Legend 
@@ -53,6 +53,10 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 > Further understanding of the D3FEND framework, applying preventative, mitigation and recovery measures against attacks
 > Performing Credential Rotation - D3-CRO (to prevent attackers from reusing stolen credentials)
 > Reviewing User Geolocation Logon Analysis to determine logon activity that deviates from a user's normal profile.
+> Other MITRE Projects: Adversary Emulation Library is a resource of several emulations that mimic real-world attacks by known threat groups.
+> Caldera - Automated adversary emulation tool that allows defenders to evaluate detection methods and perform I.R in a controlled environment, supports Red Team and Blue Team excercises.
+> AADAPT (Adversarial Actions in Digital Asset Payment Technologies) covers tactics and techniques related to digital asset management systems. Helps defenders understand and mitigate threats targeting blockchain networks, smart contracts, digital wallets, and other digital asset technologies.
+> ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems) focuses on threats targeting artificial intelligence and machine learning systems. It documents real-world attack techniques, vulnerabilities, and mitigations specific to AI technology
 
 ...
 
