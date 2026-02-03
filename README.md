@@ -30,10 +30,10 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ## 🗓️ Daily Progress Tracker
 
-| Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status    |
-|-----|------------|------------------|--------------------------------|------------|--------------------------------------|-----------|
-| 1   | 02 Feb     | TryHackMenders   | MITRE                          | 30 mins    | MITRE D3FEND and other MITRE project | ⏳ In Progress    |
-| ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
+| Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status          |
+|-----|------------|-----------------|--------------------------------|------------|--------------------------------------|-----------------|
+| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND and other MITRE project | ⏳In-Progress  |
+| ... | ...        | ...             | ...                            | ...        | ...                                  | ...             |
 
 ### Legend 
 - ✅ Done
