@@ -30,10 +30,11 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ## 🗓️ Daily Progress Tracker
 
-| Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status          |
-|-----|------------|-----------------|--------------------------------|------------|--------------------------------------|-----------------|
-| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND basics                  | ✅ Done     |
-| 2   | 03 Feb     | TryHackMe       | MITRE                          | 30 mins    | Using the D3FEND against attacks. Other MITRE projects | ✅ Done | 
+| Day | Date       | Platform        | Lab/Topic                      | Time Spent | Key Learnings                                      | Status          |
+|-----|------------|-----------------|--------------------------------|------------|----------------------------------------------------|-----------------|
+| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND basics                                | ✅ Done        |          
+| 2   | 03 Feb     | TryHackMe       | MITRE, Notepad++ Threat        | 30 mins    | Using D3FEND against attacks and other MITRE projects. Researched on Notepad++ supply-chain attack | ✅ Done        | 
+| 3   | 04 Feb     | TryHackMe       | Eviction                       | 30 min     | Following APT28 tactics and techniques             | ✅ Done        |
 | ... | ...        | ...             | ...                            | ...        | ...                                  | ...             |
 
 ### Legend 
@@ -57,7 +58,10 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 > Caldera - Automated adversary emulation tool that allows defenders to evaluate detection methods and perform I.R in a controlled environment, supports Red Team and Blue Team excercises.
 > AADAPT (Adversarial Actions in Digital Asset Payment Technologies) covers tactics and techniques related to digital asset management systems. Helps defenders understand and mitigate threats targeting blockchain networks, smart contracts, digital wallets, and other digital asset technologies.
 > ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems) focuses on threats targeting artificial intelligence and machine learning systems. It documents real-world attack techniques, vulnerabilities, and mitigations specific to AI technology
+> Researched on the scope and techniques used in the Notepad++ supply-chain attack. This affected update requests that were intercepted and re-directed to attacker owned servers. Mostly impacting Orgs in East & SouthEast asia. 
 
+### Day 3
+> Uncovering common tactics and techniques leveraged by APT28 (Russia say's hi) when attacking Governement and non-government institutions, from Recon -> Resource Dev -> Initial Access -> Execution -> Persitence ->  
 ...
 
 ---
