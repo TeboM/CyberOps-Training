@@ -30,12 +30,12 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ## 🗓️ Daily Progress Tracker
 
-| Day | Date       | Platform        | Lab/Topic                      | Time Spent | Key Learnings                                      | Status          |
-|-----|------------|-----------------|--------------------------------|------------|----------------------------------------------------|-----------------|
-| 1   | 02 Feb     | TryHackMe       | MITRE                          | 30 mins    | MITRE D3FEND basics                                | ✅ Done        |          
-| 2   | 03 Feb     | TryHackMe       | MITRE, Notepad++ Threat        | 30 mins    | Using D3FEND against attacks and other MITRE projects. Researched on Notepad++ supply-chain attack | ✅ Done        | 
-| 3   | 04 Feb     | TryHackMe       | Eviction                       | 30 min     | Following APT28 tactics and techniques             | ✅ Done        |
-| ... | ...        | ...             | ...                            | ...        | ...                                  | ...             |
+| Day | Date       | Platform            | Lab/Topic                             | Time Spent | Key Learnings                                      | Status          |
+|-----|------------|---------------------|---------------------------------------|------------|----------------------------------------------------|-----------------|
+| 1   | 02 Feb     | TryHackMe           | MITRE                                 | 30 mins    | MITRE D3FEND basics                                | ✅ Done        |          
+| 2   | 03 Feb     | TryHackMe, Research | MITRE, Notepad++ Threat (Pub reports) | 30 mins    | Using D3FEND against attacks and other MITRE projects. Researched on Notepad++ supply-chain attack | ✅ Done        | 
+| 3   | 04 Feb     | TryHackMe           | Eviction lab, Snapped Phish-ing Line  | 30 min     | Following APT28 tactics and techniques, Phishing Campaign Investigation | ✅ Done        |
+| ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
 - ✅ Done
@@ -61,7 +61,9 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 > Researched on the scope and techniques used in the Notepad++ supply-chain attack. This affected update requests that were intercepted and re-directed to attacker owned servers. Mostly impacting Orgs in East & SouthEast asia. 
 
 ### Day 3
-> Uncovering common tactics and techniques leveraged by APT28 (Russia say's hi) when attacking Governement and non-government institutions, from Recon -> Resource Dev -> Initial Access -> Execution -> Persitence ->  
+> Uncovering common tactics and techniques leveraged by APT28 (Russia say's hi) when attacking Governement and non-government institutions, from Recon -> Resource Dev -> Initial Access -> Execution -> Persitence -> C2 -> Collection.
+> Investigated a targeted Office365 Credential Harvesting campaign. Discovered artefacts about the phishing domain, phishing kit used, log file where credentials were stored, the attackers email addresses and final flag.
+
 ...
 
 ---
