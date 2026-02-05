@@ -32,9 +32,10 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 | Day | Date       | Platform            | Lab/Topic                             | Time Spent | Key Learnings                                      | Status          |
 |-----|------------|---------------------|---------------------------------------|------------|----------------------------------------------------|-----------------|
-| 1   | 02 Feb     | TryHackMe           | MITRE                                 | 30 mins    | MITRE D3FEND basics                                | ✅ Done        |          
-| 2   | 03 Feb     | TryHackMe, Research | MITRE, Notepad++ Threat (Pub reports) | 30 mins    | Using D3FEND against attacks and other MITRE projects. Researched on Notepad++ supply-chain attack | ✅ Done        | 
+| 1   | 02 Feb     | TryHackMe           | MITRE                                 | 30 min     | MITRE D3FEND basics                                | ✅ Done        |          
+| 2   | 03 Feb     | TryHackMe, Research | MITRE, Notepad++ Threat (Pub reports) | 30 min     | Using D3FEND against attacks and other MITRE projects. Researched on Notepad++ supply-chain attack | ✅ Done        | 
 | 3   | 04 Feb     | TryHackMe           | Eviction lab, Snapped Phish-ing Line  | 30 min     | Following APT28 tactics and techniques. Phishing Campaign Investigation | ✅ Done        |
+| 4   | 05 Feb     | TryHackMe           | Intro to SIEM                         | 45 min     | Fundamentals of SIEM and its functionality         | ✅ Done        |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
@@ -63,6 +64,10 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 ### Day 3
 > Uncovering common tactics and techniques leveraged by APT28 (Russia say's hi) when attacking Governement and non-government institutions, from Recon -> Resource Dev -> Initial Access -> Execution -> Persitence -> C2 -> Collection.
 > Investigated a targeted Office365 Credential Harvesting campaign. Discovered artefacts about the phishing domain, phishing kit used, log file where credentials were stored, the attackers email addresses and final flag.
+
+### Day 4
+> Understanding the value of a centralized platform for log collection, normalization and incident investigation + management
+
 
 ...
 
