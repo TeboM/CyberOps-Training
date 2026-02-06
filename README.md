@@ -36,6 +36,7 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 2   | 03 Feb     | TryHackMe, Research | MITRE, Notepad++ Threat (Pub reports) | 3 hours    | Using D3FEND against attacks and other MITRE projects. Researched on Notepad++ supply-chain attack | ✅ Done        | 
 | 3   | 04 Feb     | TryHackMe           | Eviction lab, Snapped Phish-ing Line  | 2 hours    | Following APT28 tactics and techniques. Phishing Campaign Investigation | ✅ Done        |
 | 4   | 05 Feb     | TryHackMe           | Intro to SIEM                         | 30 min     | Fundamentals of SIEM and its functionality         | ✅ Done        |
+| 5   | 06 Feb     | TryHackMe           | Incident Response Fundamentals        | 15 min     | Intro to IR                                        | ⏳ In Progress |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
@@ -67,6 +68,7 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ### Day 4
 > Understanding the value of a centralized platform for log collection, normalization and incident investigation + management
+
 
 
 ...
