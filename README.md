@@ -37,8 +37,11 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 3   | 04 Feb     | TryHackMe           | Eviction lab, Snapped Phish-ing Line  | 2 hours    | Following APT28 tactics and techniques. Phishing Campaign Investigation | ✅ Done        |
 | 4   | 05 Feb     | TryHackMe           | Intro to SIEM                         | 30 min     | Fundamentals of SIEM and its functionality         | ✅ Done        |
 | 5   | 06 Feb     | TryHackMe           | Incident Response Fundamentals        | 15 min     | Intro to IR                                        | ✅ Done        |
-| 6   | 07 Feb     | TryHackMe           | Incident Response Fundamentals        | 05 min     | Types of Incidents                                 | ⏳ In Progress |
-
+| 6   | 07 Feb     | TryHackMe           | Incident Response Fundamentals        | 10 min     | Types of Incidents                                 | ⏳ In Progress |
+| 7   | 08 Feb     | No training done    | N/A                                   | 0 min      | N/A                                                | ⛔ N/A         |
+| 8   | 09 Feb     | No training done    | N/A                                   | 0 min      | N/A                                                | ⛔ N/A         |
+| 9   | 10 Feb     | TryHackMe           | Wireshark Basics                      | 15 min     | Navigating through Wireshark, Packet stats         | ⏳ In Progress |
+| 10  | 11 Feb     | TryHackMe           | IR Fundamentals, Wireshark Basics     |            |                                                    | ⏳ In Progress |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
