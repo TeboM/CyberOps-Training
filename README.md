@@ -42,7 +42,7 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 8   | 09 Feb     | No training done    | N/A                                   | 0 min      | N/A                                                | ⛔ N/A         |
 | 9   | 10 Feb     | TryHackMe           | Wireshark Basics                      | 15 min     | Navigating through Wireshark, Packet stats         | ✅ Done  |
 | 10  | 11 Feb     | TryHackMe           | IR Fundamentals                       | 30 min     | IR Process (Prep, Detection, Containment etc)      | ✅ Done        |
-| 11  | 12 Feb     | TryHackMe           | Wireshark Basics, Phishing Sim        | 1 hour     | Packet Dissection                                  | ✅ Done        |
+| 11  | 12 Feb     | TryHackMe           | Wireshark Basics, Phishing Sim        | 1 hour     | Packet Dissection, Navigation and Filtering        | ✅ Done        |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
