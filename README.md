@@ -43,6 +43,7 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 9   | 10 Feb     | TryHackMe           | Wireshark Basics                      | 15 min     | Navigating through Wireshark, Packet stats         | ✅ Done  |
 | 10  | 11 Feb     | TryHackMe           | IR Fundamentals                       | 30 min     | IR Process (Prep, Detection, Containment etc)      | ✅ Done        |
 | 11  | 12 Feb     | TryHackMe           | Wireshark Basics, Phishing Sim        | 1 hour     | Packet Dissection, Navigation and Filtering        | ✅ Done        |
+| 12  | 13 Feb     | TryHackMe           | Web Security Essentials               | 30 min     | Exploring Web Apps, infrastructure, tools etc.     | ⏳ In Progress |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
@@ -75,7 +76,12 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 ### Day 4
 > Understanding the value of a centralized platform for log collection, normalization and incident investigation + management
 
+### Day 11
+> Completed Wireshark Basics, navigating the app, basic packet inspection, packet filtering and how to get around Wireshark.
+> Handled a Phishing wide scale phishing attack from delivery, initial access, execution of malware, downloading of payloads (PowerView script), collection of sensitive data, exfiltration via Nslookup. This was quite interesting. Will try it out again to time my incident management metrics.
 
+### Day 12 
+Going through Web security basics
 
 ...
 
