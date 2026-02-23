@@ -53,6 +53,7 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 19  | 20 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Further review of web access log structure         | ✅ Done        |
 | 20  | 21 Feb     | TryHackMe           | Detecting Web Attacks                 | 10 min     | Web Application Firewalls (brief review of content)| ✅ Done        |
 | 21  | 22 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Network Based Detection, Web Application Firewalls | ✅ Done        |
+| 22  | 23 Feb     | TryHackMe           | Detecting Web Shells                  | 30 min     | Intro, Overview and Anatomy of Web Shells          | ⏳ In Progress |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
@@ -99,6 +100,10 @@ Going through Web security basics
 > Clickjacking - User clicking on malicious elements overlayed on top of legitimate content (think free movie websites)
 
 > Server-side attacks  
+
+### Day 22
+> Introduction to web shells as techniques for gaining initial-access on targeted web servers and establishing persistence through remote command execution
+
 ...
 
 ---
