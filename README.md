@@ -24,11 +24,22 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 - Daily Progress tracking  
 - Weekly retrospectives
 
+## 🔒 Daily Minimum Rule
+
+No matter what happens during the day, I must complete at least ONE of the following:
+
+- 1 training task on TryHackMe/HackTheBox/CyberDefenders
+- 20 minutes of lab work
+- Write notes on one security concept
+- Review one investigation technique
+- Update training repo
+
+Even on bad days, progress must exist.
+
 ## 📈 Milestones
 
 - ✅ Cycle 1 - 2 Feb to 23 Feb (Kickstart phase)
-- ⏳ Cycle 2 - 15 Mar to Day 11–30: Deepen learning and build momentum
-- 🔥 Day 31–90: Mastery and real-case emulation
+- ⏳ Cycle 2 - 15 Mar to 13 May (Deepen learning and build momentum)
 
 ---
 
