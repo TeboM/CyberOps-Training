@@ -69,7 +69,7 @@ Even on bad days, progress must exist.
 | 20  | 21 Feb     | TryHackMe           | Detecting Web Attacks                 | 10 min     | Web Application Firewalls (brief review of content)| ✅ Done        |
 | 21  | 22 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Network Based Detection, Web Application Firewalls | ✅ Done        |
 | 22  | 23 Feb     | TryHackMe           | Detecting Web Shells                  | 30 min     | Intro, Overview and Anatomy of Web Shells          | ⏳ In Progress |
-| ... | Cycle 2    | ...                 | ...                                   | ...        | ...                                                | ...             |
+| ... | ...        | Cycle 2             | ...                                   | ...        | ...                                                | ...             |
 | 1   | 15 Mar     | TryHackMe           | M365 Monitoring Basics                | 45 min     | Entra ID, investigating sign-in and audit logs     | ✅ Done        |
 | 2   | 16 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | Password based attacksg, sign-in logs              | ⏳ In Progress |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
