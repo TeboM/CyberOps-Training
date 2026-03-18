@@ -71,8 +71,9 @@ Even on bad days, progress must exist.
 | 22  | 23 Feb     | TryHackMe           | Detecting Web Shells                  | 30 min     | Intro, Overview and Anatomy of Web Shells          | ⏳ In Progress |
 | ... | ...        | Cycle 2             | ...                                   | ...        | ...                                                | ...             |
 | 1   | 15 Mar     | TryHackMe           | M365 Monitoring Basics                | 45 min     | Entra ID, investigating sign-in and audit logs     | ✅ Done        |
-| 2   | 16 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | Password Spraying, Brute-Force attacks             | ⏳ In Progress |
-| 3   | 17 Mar     | TryHackMe           | Entra ID Monitoring                   | 45 min     | Bbased attacks, sign-in logs              | ⏳ In Progress |
+| 2   | 16 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | Password Spraying, Brute-Force attacks             | ✅ Done        |
+| 3   | 17 Mar     | TryHackMe           | Entra ID Monitoring                   | 30 min     | Conditional Access Policies, ID Protection         | ✅ Done        |
+| 4   | 18 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | MFA Bypass Techniques                              | ✅ Done        |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
