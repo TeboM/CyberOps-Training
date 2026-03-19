@@ -156,6 +156,10 @@ Even on bad days, progress must exist.
 > AiTM Example: The sign-in succeeds without a new MFA prompt since the token already carries proof that MFA was completed. The sign-in succeeds without a new MFA prompt because the token already carries proof that MFA was completed during the original (victim's) authentication.
 
 
+### Day 5
+> Privilege Escalation - The attacker may grant themself elevated privileges or create a secondary account which is subsequently granted those privileges
+
+
 
 
 
