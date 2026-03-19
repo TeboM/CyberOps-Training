@@ -133,6 +133,17 @@ Even on bad days, progress must exist.
 > Explored M365 Monitoring Basics Lab - Understanding Cloud Identity Providers i.e Systems responsible for creating and managing Digital identities (Attributes that represent an entity such as a person, device or software component). ID Providers handle authentication (verifying identity), authorization (controlling access), and auditing by recording identity-related activity across connected services.
 > Example of ID Providers: Entra ID (Azure AD), Google, GitHub, LinkedIn, Twitter, Facebook
 > Entra ID Components, Users and Sign-ins (Authentication), Roles and Access Decisions (Authorization), Audit logs that capture administrative actions and changes made within the Entra ID environment.
+
+### Day 2
+> Password Spraying - Many failed sign-ins from the same IP address. Failures spread across multiple different usernames. All attempts occur within a short time window. The attacker aims to stay under the lockout threshold
+> Brute-Force Attacks - Many failed sign-ins against a single username. High volume of attempts from a single IP or a small number of IPs. This can be can bypassed by throttling their attempts and spreading them over a long period so as to not exceed the lockout threshold
+
+### Day 3
+> Reviewed Conditional Access Policies and Identity Protection.
+> With Conditional Access Policies, entities are given access only if they meet certain requirements. A sign-in is evaluated against a set of policies, and based on the policy's findings, it either grants access, requires an additional control (such as MFA), or blocks the request entirely.
+> CAP Examples: Require MFA for all users, Block legacy authentication, Block sign-ins from risky locations, Require compliant device, Risk-based block
+
+
 ---
 
 ## 📦 Tools & Platforms
