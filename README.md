@@ -74,6 +74,7 @@ Even on bad days, progress must exist.
 | 2   | 16 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | Password Spraying, Brute-Force attacks             | ✅ Done        |
 | 3   | 17 Mar     | TryHackMe           | Entra ID Monitoring                   | 30 min     | Conditional Access Policies, ID Protection         | ✅ Done        |
 | 4   | 18 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | MFA Bypass Techniques                              | ✅ Done        |
+| 5   | 19 Mar     | TryHackMe           | Entra ID Monitoring                   | 30 min     | Privilege Escalation & Persistence, OAuth Abuse    | ⏳ In Progress |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
