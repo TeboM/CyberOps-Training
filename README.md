@@ -87,6 +87,8 @@ Even on bad days, progress must exist.
 
 ## 🧠 Reflections & Notes
 
+### Cycle 1 (02 Feb 2026 - 23 Feb 2026)
+
 ### Day 1 
 > Continued with Cyber Defence Frameworks focusing on MITRE's D3FEND framework, where it is used and how to apply it in real-world situations.
 
