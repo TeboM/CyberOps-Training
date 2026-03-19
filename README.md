@@ -112,14 +112,13 @@ Even on bad days, progress must exist.
 > Handled a Phishing wide scale phishing attack from delivery, initial access, execution of malware, downloading of payloads (PowerView script), collection of sensitive data, exfiltration via Nslookup. This was quite interesting. Will try it out again to time my incident management metrics.
 
 ### Day 12 
-Going through Web security basics
+> Going through Web security basics
 
 ### Day 17
 > Exploring Web Attack detection, understanding Client-side attacks (exploiting browser and user devices to reveal or gain access to sensitive data)
 > XSS - Malicious script hosted on a legit website, inadvertedly executing in a users browser upon accessing a feature on the website.
 > CSRF - A user's browser getting tricked into sending unauthorized requests on behalf of the legit/trusted user.
 > Clickjacking - User clicking on malicious elements overlayed on top of legitimate content (think free movie websites)
-
 > Server-side attacks  
 
 ### Day 22
