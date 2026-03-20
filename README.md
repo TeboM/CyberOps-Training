@@ -68,13 +68,14 @@ Even on bad days, progress must exist.
 | 19  | 20 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Further review of web access log structure         | ✅ Done        |
 | 20  | 21 Feb     | TryHackMe           | Detecting Web Attacks                 | 10 min     | Web Application Firewalls (brief review of content)| ✅ Done        |
 | 21  | 22 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Network Based Detection, Web Application Firewalls | ✅ Done        |
-| 22  | 23 Feb     | TryHackMe           | Detecting Web Shells                  | 30 min     | Intro, Overview and Anatomy of Web Shells          | ⏳ In Progress |
+| 22  | 23 Feb     | TryHackMe           | Detecting Web Shells                  | 30 min     | Intro, Overview and Anatomy of Web Shells          | ✅ Done        |
 | ... | ...        | Cycle 2             | ...                                   | ...        | ...                                                | ...             |
 | 1   | 15 Mar     | TryHackMe           | M365 Monitoring Basics                | 45 min     | Entra ID, investigating sign-in and audit logs     | ✅ Done        |
 | 2   | 16 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | Password Spraying, Brute-Force attacks             | ✅ Done        |
 | 3   | 17 Mar     | TryHackMe           | Entra ID Monitoring                   | 30 min     | Conditional Access Policies, ID Protection         | ✅ Done        |
 | 4   | 18 Mar     | TryHackMe           | Entra ID Monitoring                   | 15 min     | MFA Bypass Techniques                              | ✅ Done        |
-| 5   | 19 Mar     | TryHackMe           | Entra ID Monitoring                   | 30 min     | Privilege Escalation & Persistence, OAuth Abuse    | ⏳ In Progress |
+| 5   | 19 Mar     | TryHackMe           | Entra ID Monitoring                   | 30 min     | Privilege Escalation & Persistence, OAuth Abuse    | ✅ Done        |
+| 6   | 20 Mar     | TryHackMe           | Detecting Web Shells                  | 30 min     | Log review, File System Analysis, Investigation    | ✅ Done        |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
@@ -158,6 +159,13 @@ Even on bad days, progress must exist.
 
 ### Day 5
 > Privilege Escalation - The attacker may grant themself elevated privileges or create a secondary account which is subsequently granted those privileges
+
+
+### Day 6 
+> Analyzing web servers for web shells, common places where web shells are stored (/uploads, /admin, /tmp, /images)
+> Look for suspicious or random files/file-extensions such as .php, .jsp or filename.jpg.php
+> Helpful commands for identifying suspicious files or file entries, find, grep, cat
+> Investigated web server attack that involved reconnaissance activity -> successful requests -> web shell upload -> command execution through the web-shell and additional payload/web-shell upload
 
 
 
