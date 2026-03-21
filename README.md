@@ -158,7 +158,11 @@ Even on bad days, progress must exist.
 
 
 ### Day 5
-> Privilege Escalation - The attacker may grant themself elevated privileges or create a secondary account which is subsequently granted those privileges
+> Privilege Escalation - The attacker may grant themself elevated privileges or create a secondary account which is subsequently granted those privileges.
+> Types of privileges: Global Administrator: Full control over the tenant. Exchange Administrator: Access to all mailboxes. User Administrator: Can reset passwords and modify accounts.
+Application Administrator: Can manage app registrations and consent grants.
+> Adding Alternate MFA Methods, where an attacker registers their own authenticator app or phone number on the compromised account.
+> OAuth Abuse -> Allowing 3rd party applications access to user's resources. An attacker can grant consent to an application with elevated priviliges surviving password resets and ability to modify Entra ID entities.
 
 
 ### Day 6 
